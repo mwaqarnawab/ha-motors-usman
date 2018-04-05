@@ -50,5 +50,93 @@ public class CarFeatures {
 	
 	@Column (name = "isBackCamera" )
 	private boolean isBackCamera;
+
+	public Long getFeaturesId() {
+		return featuresId;
+	}
+
+	public void setFeaturesId(Long featuresId) {
+		this.featuresId = featuresId;
+	}
+
+	public boolean isAutomatic() {
+		return isAutomatic;
+	}
+
+	public void setAutomatic(boolean isAutomatic) {
+		this.isAutomatic = isAutomatic;
+	}
+
+	public boolean isSunRoof() {
+		return isSunRoof;
+	}
+
+	public void setSunRoof(boolean isSunRoof) {
+		this.isSunRoof = isSunRoof;
+	}
+
+	public boolean isHatchBack() {
+		return isHatchBack;
+	}
+
+	public void setHatchBack(boolean isHatchBack) {
+		this.isHatchBack = isHatchBack;
+	}
+
+	public boolean isPowerMirror() {
+		return isPowerMirror;
+	}
+
+	public void setPowerMirror(boolean isPowerMirror) {
+		this.isPowerMirror = isPowerMirror;
+	}
+
+	public boolean isPowerWindow() {
+		return isPowerWindow;
+	}
+
+	public void setPowerWindow(boolean isPowerWindow) {
+		this.isPowerWindow = isPowerWindow;
+	}
+
+	public boolean isPowerSteering() {
+		return isPowerSteering;
+	}
+
+	public void setPowerSteering(boolean isPowerSteering) {
+		this.isPowerSteering = isPowerSteering;
+	}
+
+	public boolean isABS() {
+		return isABS;
+	}
+
+	public void setABS(boolean isABS) {
+		this.isABS = isABS;
+	}
+
+	public Long getNoOfAirBags() {
+		return noOfAirBags;
+	}
+
+	public void setNoOfAirBags(Long noOfAirBags) {
+		this.noOfAirBags = noOfAirBags;
+	}
+
+	public Long getNoOfSeats() {
+		return noOfSeats;
+	}
+
+	public void setNoOfSeats(Long noOfSeats) {
+		this.noOfSeats = noOfSeats;
+	}
+
+	public boolean isBackCamera() {
+		return isBackCamera;
+	}
+
+	public void setBackCamera(boolean isBackCamera) {
+		this.isBackCamera = isBackCamera;
+	}
 	
 }
