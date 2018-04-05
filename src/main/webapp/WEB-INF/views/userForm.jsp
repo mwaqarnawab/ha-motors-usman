@@ -761,7 +761,7 @@
             
             <!-- Google Map -->
             <div class="map height-300">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2724.0694570748947!2d7.455080415208266!3d46.94067397914616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e39d0cf20e8d1%3A0x9daac4cd3043d067!2sThunstrasse+50%2C+3005+Bern%2C+Switzerland!5e0!3m2!1sen!2sin!4v1496749852928" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d856.4457506711403!2d72.07986654003058!3d30.836745938591807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x392364386273fb61%3A0x1aae003492664abe!2sSabar+Ayub+Goods+and+Rehman+Autos!5e0!3m2!1sen!2s!4v1522928600344" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
         </div>
         <!-- End Contact -->
