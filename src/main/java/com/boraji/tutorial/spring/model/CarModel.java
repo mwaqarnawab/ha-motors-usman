@@ -5,6 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import javax.validation.constraints.Size;
@@ -22,9 +23,9 @@ public class CarModel {
 	@Size(max = 499, min = 0, message="{model.name=invalid}")
 	private String ModelName;
 	
-	@OneToMany
+	@ManyToOne
 	@JoinColumn(name = "carManufacturerId")
-	private Long carManufacturerId;
+	private CarManufacturer carManufacturer;
 
 	public Long getModelId() {
 		return modelId;
@@ -42,12 +43,12 @@ public class CarModel {
 		ModelName = modelName;
 	}
 
-	public Long getCarManufacturerId() {
-		return carManufacturerId;
+	public CarManufacturer getCarManufacturer() {
+		return carManufacturer;
 	}
 
-	public void setCarManufacturerId(Long carManufacturerId) {
-		this.carManufacturerId = carManufacturerId;
+	public void setCarManufacturer(CarManufacturer carManufacturer) {
+		this.carManufacturer = carManufacturer;
 	}
 	
 	

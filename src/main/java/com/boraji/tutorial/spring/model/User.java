@@ -8,12 +8,12 @@ import javax.persistence.Table;
 import javax.validation.constraints.Size;
 
 import org.hibernate.validator.constraints.Email;
-
+/*
 @Entity
-@Table(name = "USER_TBL")
+@Table(name = "USER_TBL")*/
 public class User {
 
-   @Id
+  /* @Id
    @GeneratedValue
    @Column(name = "UID")
    private Long id;
@@ -48,6 +48,6 @@ public class User {
 
    public void setEmail(String email) {
       this.email = email;
-   }
+   }*/
 
 }

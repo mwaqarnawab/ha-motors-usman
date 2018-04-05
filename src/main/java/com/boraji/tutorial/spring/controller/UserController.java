@@ -27,8 +27,8 @@ public class UserController {
    @GetMapping("/")
    public String userForm(Locale locale, Model model) {
 
-      model.addAttribute("user", new User());
-      model.addAttribute("users", userService.list());
+     /* model.addAttribute("user", new User());
+      model.addAttribute("users", userService.list());*/
 
       return "userForm";
    }

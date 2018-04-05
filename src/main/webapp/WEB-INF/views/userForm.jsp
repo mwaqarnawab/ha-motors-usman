@@ -32,7 +32,7 @@ legend {
 </style>
 </head>
 <body>
-  <fieldset>
+  <%-- <fieldset>
     <legend>User Input From</legend>
     <form:form action="saveUser" method="post" modelAttribute="user">
       <table>
@@ -70,7 +70,7 @@ legend {
       </c:forEach>
 
     </table>
-  </fieldset>
-
+  </fieldset> --%>
+<h1> Hello World! </h1>
 </body>
 </html>
