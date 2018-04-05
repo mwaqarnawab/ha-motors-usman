@@ -34,7 +34,7 @@
 
                           <div class="logo">
                             <a class="logo-wrap" href="#body">
-                                <img class="logo-img logo-img-main" src="resources/img/logo.png" alt="FlameOnePage Logo">
+                                <img class="logo-img logo-img-main" style="    width: 75px;" src="resources/img/1920x1080/hamotors-logo.jpg" alt="FlameOnePage Logo">
                                 <img class="logo-img logo-img-active" src="resources/img/logo-dark.png" alt="FlameOnePage Dark Logo">
                             </a>
                         </div>
@@ -71,12 +71,40 @@
                 <ol class="carousel-indicators">
                     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                     <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                     <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                     <li data-target="#carousel-example-generic" data-slide-to="5"></li>
                 </ol>
             </div>
 
             <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <img class="img-responsive" src="resources/img/1920x1080/1.jpg" alt="Slider Image">
+            <div class="item active">
+                    <img class="img-responsive" src="resources/img/1920x1080/fit.jpg" alt="Slider Image">
+                    <div class="container">
+                        <div class="carousel-centered">
+                            <div class="margin-b-40">
+                                <h2 class="carousel-title">Personal Approach</h2>
+                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                            </div>
+                            <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
+                        </div>
+                    </div>
+                </div>
+              <div class="item">
+                    <img class="img-responsive" src="resources/img/1920x1080/fit2.jpg" alt="Slider Image">
+                    <div class="container">
+                        <div class="carousel-centered">
+                            <div class="margin-b-40">
+                                <h2 class="carousel-title">Personal Approach</h2>
+                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                            </div>
+                            <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <img class="img-responsive" src="resources/img/1920x1080/all1.jpg" alt="Slider Image">
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
@@ -88,7 +116,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="img-responsive" src="resources/img/1920x1080/2.jpg" alt="Slider Image">
+                    <img class="img-responsive" src="resources/img/1920x1080/aqua.jpg" alt="Slider Image">
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
@@ -99,6 +127,31 @@
                         </div>
                     </div>
                 </div>
+                <div class="item">
+                    <img class="img-responsive" src="resources/img/1920x1080/outside.jpg" alt="Slider Image">
+                    <div class="container">
+                        <div class="carousel-centered">
+                            <div class="margin-b-40">
+                                <h2 class="carousel-title">Personal Approach</h2>
+                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                            </div>
+                            <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <img class="img-responsive" src="resources/img/1920x1080/all.jpg" alt="Slider Image">
+                    <div class="container">
+                        <div class="carousel-centered">
+                            <div class="margin-b-40">
+                                <h2 class="carousel-title">Personal Approach</h2>
+                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                            </div>
+                            <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
+                        </div>
+                    </div>
+                </div>
+              
             </div>
         </div>
         <!--========== SLIDER ==========-->
