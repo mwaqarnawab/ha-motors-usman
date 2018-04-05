@@ -76,7 +76,7 @@
 
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="img-responsive" src="resources/img/1920x1080/01.jpg" alt="Slider Image">
+                    <img class="img-responsive" src="resources/img/1920x1080/1.jpg" alt="Slider Image">
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="img-responsive" src="resources/img/1920x1080/02.jpg" alt="Slider Image">
+                    <img class="img-responsive" src="resources/img/1920x1080/2.jpg" alt="Slider Image">
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
