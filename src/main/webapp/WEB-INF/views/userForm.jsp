@@ -81,6 +81,7 @@
             <div class="carousel-inner" role="listbox">
             <div class="item active">
                     <img class="img-responsive" src="resources/img/1920x1080/fit.jpg" alt="Slider Image">
+<<<<<<< HEAD
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
@@ -105,11 +106,38 @@
                 </div>
                 <div class="item">
                     <img class="img-responsive" src="resources/img/1920x1080/all1.jpg" alt="Slider Image">
+=======
+>>>>>>> master
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h1 class="carousel-title">Hi-End Solutions</h1>
-                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                                <h2 class="carousel-title uppercase">HAJI ASGHAR MOTORS</h2>
+                                <p class="color-white">"HA Motors treats the needs of each individual customer with paramount concern<br/> We take pride in our vehicles and it shows..." <br/> OPEN 7 DAYS A WEEK
+                                </p>
+                            </div>
+                            <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
+                        </div>
+                    </div>
+                </div>
+              <div class="item">
+                    <img class="img-responsive" src="resources/img/1920x1080/fit2.jpg" alt="Slider Image">
+                    <div class="container">
+                        <div class="carousel-centered">
+                            <div class="margin-b-40">
+                                <h2 class="carousel-title uppercase">Serving the community</h2>
+                                <p class="color-white">We are serving the community from last 10 years <br/> We do business in <strong>JAPAN Motors </strong></p>
+                            </div>
+                            <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <img class="img-responsive" src="resources/img/1920x1080/all1.jpg" alt="Slider Image">
+                    <div class="container">
+                        <div class="carousel-centered">
+                            <div class="margin-b-40">
+                                <h1 class="carousel-title uppercase">look forward</h1>
+                                <p class="color-white">We look forward to serving you!</p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Details</a>
                         </div>
@@ -120,8 +148,13 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
+<<<<<<< HEAD
                                 <h2 class="carousel-title">Personal Approach</h2>
                                 <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+=======
+                                <h2 class="carousel-title">Auto Parts</h2>
+                                <p class="color-white">We bring to you the cost effective parts for your vehicle <br/> Place your order now!</p>
+>>>>>>> master
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
                         </div>
