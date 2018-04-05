@@ -65,7 +65,6 @@
                 </div>
             </nav>
 			</header>
-			
        
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <div class="container">
@@ -82,33 +81,6 @@
             <div class="carousel-inner" role="listbox">
             <div class="item active">
                     <img class="img-responsive" src="resources/img/1920x1080/fit.jpg" alt="Slider Image">
-<<<<<<< HEAD
-                    <div class="container">
-                        <div class="carousel-centered">
-                            <div class="margin-b-40">
-                                <h2 class="carousel-title">Personal Approach</h2>
-                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
-                            </div>
-                            <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
-                        </div>
-                    </div>
-                </div>
-              <div class="item">
-                    <img class="img-responsive" src="resources/img/1920x1080/fit2.jpg" alt="Slider Image">
-                    <div class="container">
-                        <div class="carousel-centered">
-                            <div class="margin-b-40">
-                                <h2 class="carousel-title">Personal Approach</h2>
-                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
-                            </div>
-                            <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <img class="img-responsive" src="resources/img/1920x1080/all1.jpg" alt="Slider Image">
-=======
->>>>>>> master
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
@@ -149,13 +121,8 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-<<<<<<< HEAD
-                                <h2 class="carousel-title">Personal Approach</h2>
-                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
-=======
                                 <h2 class="carousel-title">Auto Parts</h2>
                                 <p class="color-white">We bring to you the cost effective parts for your vehicle <br/> Place your order now!</p>
->>>>>>> master
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
                         </div>
