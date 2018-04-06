@@ -166,24 +166,24 @@
                     <div class="masonry-grid-sizer col-xs-6 col-sm-6 col-md-1"></div>
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 sm-margin-b-30">
                         <div class="margin-b-60">
-                            <h2>Harmonious Planning</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>
+                            <h2>Professional Advice</h2>
+                            <p>Are you confused selecting car? Just pick your phone and schedule a time with one of our professional for advice that suits you! </p>
                         </div>
-                        <img class="full-width img-responsive wow fadeInUp" src="resources/img/500x500/01.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".2s">
+                        <img class="full-width img-responsive wow fadeInUp" src="resources/img/carAdvice/carAdvice.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".2s">
                     </div>
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
                         <div class="margin-b-60">
-                          <h2>Easy Integration</h2>
-                          <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>  
+                          <h2>Place Order</h2>
+                          <p>Search for desired cars or Auto Parts and place your order in a minute OR visit us for a cool deal!</p>  
                         </div>
-						 <img class="full-width img-responsive wow fadeInUp" src="resources/img/500x500/02.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".3s">
+						 <img class="full-width img-responsive wow fadeInUp" src="resources/img/placeOrder/placeorder.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".3s">
                     </div>
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
                         <div class="margin-t-60 margin-b-60">
-                            <h2>Superior Support</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>
+                            <h2>AfterSale Support</h2>
+                            <p>Get free service on your purchased cars as per the contract signed with us!</p>
                         </div>
-                        <img class="full-width img-responsive wow fadeInUp" src="resources/img/500x500/03.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".4s">
+                        <img class="full-width img-responsive wow fadeInUp" src="resources/img/afterSale/aftersale1.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".4s">
                     </div>
 				</div>
                 <!-- End Masonry Grid -->
@@ -812,10 +812,10 @@
             <div class="content container">
                 <div class="row">
                     <div class="col-xs-6">
-                        <img class="footer-logo" src="resources/img/logo-dark.png" alt="flameonepage Logo">
+                        <img class="footer-logo" src="resources/img/1920x1080/hamotors-logo.jpg" alt="flameonepage Logo">
                     </div>
                     <div class="col-xs-6 text-right">
-                        <p class="margin-b-0"><a class="fweight-700" href="#">FlameOnePage</a> Theme Powered by: <a class="fweight-700" href="http://ft-seo.ch/">FairTech Studio</a></p>
+                        <p class="margin-b-0"><a class="fweight-700" href="#">HA Motors</a> Theme Powered by: <a class="fweight-700" href="http://ft-seo.ch/">FairTech Studio</a></p>
                     </div>
                 </div>
                 <!--// end row -->
