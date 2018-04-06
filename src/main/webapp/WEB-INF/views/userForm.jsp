@@ -84,7 +84,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-title uppercase">HAJI ASGHAR MOTORS</h2>
+                                <h2 class="carousel-title uppercase">HA MOTORS</h2>
                                 <p class="color-white">"HA Motors treats the needs of each individual customer with paramount concern<br/> We take pride in our vehicles and it shows..." <br/> OPEN 7 DAYS A WEEK
                                 </p>
                             </div>
