@@ -4,7 +4,7 @@
 <html>
 <head>
         <meta charset="utf-8"/>
-        <title>FlameOnePage Free Template by FairTech</title>
+        <title>HA Motors</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="FlameOnePage freebie theme for web startups by FairTech SEO." name="description"/>
@@ -34,8 +34,8 @@
 
                           <div class="logo">
                             <a class="logo-wrap" href="#body">
-                                <img class="logo-img logo-img-main" style="    width: 75px;" src="resources/img/1920x1080/hamotors-logo.jpg" alt="FlameOnePage Logo">
-                                <img class="logo-img logo-img-active" src="resources/img/logo-dark.png" alt="FlameOnePage Dark Logo">
+                                <img class="logo-img logo-img-main" style=" width: 75px;" src="resources/img/1920x1080/hamotors-logo.jpg" alt="FlameOnePage Logo">
+                                <img class="logo-img logo-img-active" style=" width: 75px;" src="resources/img/1920x1080/hamotors-logo.jpg" alt="HAMotors Dark Logo">
                             </a>
                         </div>
                     </div>
