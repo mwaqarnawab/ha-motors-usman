@@ -16,17 +16,25 @@ import com.boraji.tutorial.spring.model.User;
 @Service
 public class UserServiceImp implements UserService {
 
-   @Autowired
-   private UserDao userDao;
+	@Autowired
+	private UserDao userDao;
 
-   @Transactional
-   public void save(User user) {
-      userDao.save(user);
-   }
+	@Transactional
+	public void save(User user) {
+		userDao.save(user);
+	}
 
-   @Transactional(readOnly = true)
-   public List<User> list() {
-      return userDao.list();
-   }
+	@Transactional(readOnly = true)
+	public List<User> list() {
+		return userDao.list();
+	}
+
+	@Transactional
+	public User findUserByUserName(String userName) {
+		// TODO Auto-generated method stub
+		User user = new User();
+		user = (User) userDao.findUserByUserName(userName);
+		return user;
+	}
 
 }
