@@ -4,7 +4,7 @@
 <html>
 <head>
         <meta charset="utf-8"/>
-        <title>FlameOnePage Free Template by FairTech</title>
+        <title>HA Motors</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="FlameOnePage freebie theme for web startups by FairTech SEO." name="description"/>
@@ -34,8 +34,8 @@
 
                           <div class="logo">
                             <a class="logo-wrap" href="#body">
-                                <img class="logo-img logo-img-main" style="    width: 75px;" src="resources/img/1920x1080/hamotors-logo.jpg" alt="FlameOnePage Logo">
-                                <img class="logo-img logo-img-active" src="resources/img/logo-dark.png" alt="FlameOnePage Dark Logo">
+                                <img class="logo-img logo-img-main" style=" width: 75px;" src="resources/img/1920x1080/hamotors-logo.jpg" alt="FlameOnePage Logo">
+                                <img class="logo-img logo-img-active" style=" width: 75px;" src="resources/img/1920x1080/hamotors-logo.jpg" alt="HAMotors Dark Logo">
                             </a>
                         </div>
                     </div>
@@ -84,8 +84,9 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-title">Personal Approach</h2>
-                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                                <h2 class="carousel-title uppercase">HA MOTORS</h2>
+                                <p class="color-white">"HA Motors treats the needs of each individual customer with paramount concern<br/> We take pride in our vehicles and it shows..." <br/> OPEN 7 DAYS A WEEK
+                                </p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
                         </div>
@@ -96,8 +97,8 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-title">Personal Approach</h2>
-                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                                <h2 class="carousel-title uppercase">Serving the community</h2>
+                                <p class="color-white">We are serving the community from last 10 years <br/> We do business in <strong>JAPAN Motors </strong></p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
                         </div>
@@ -108,8 +109,8 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h1 class="carousel-title">Hi-End Solutions</h1>
-                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                                <h1 class="carousel-title uppercase">look forward</h1>
+                                <p class="color-white">We look forward to serving you!</p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Details</a>
                         </div>
@@ -120,8 +121,8 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-title">Personal Approach</h2>
-                                <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                                <h2 class="carousel-title">Auto Parts</h2>
+                                <p class="color-white">We bring to you the cost effective parts for your vehicle <br/> Place your order now!</p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
                         </div>
@@ -165,24 +166,24 @@
                     <div class="masonry-grid-sizer col-xs-6 col-sm-6 col-md-1"></div>
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 sm-margin-b-30">
                         <div class="margin-b-60">
-                            <h2>Harmonious Planning</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>
+                            <h2>Professional Advice</h2>
+                            <p>Are you confused selecting car? Just pick your phone and schedule a time with one of our professional for advice that suits you! </p>
                         </div>
-                        <img class="full-width img-responsive wow fadeInUp" src="resources/img/500x500/01.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".2s">
+                        <img class="full-width img-responsive wow fadeInUp" src="resources/img/carAdvice/carAdvice.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".2s">
                     </div>
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
                         <div class="margin-b-60">
-                          <h2>Easy Integration</h2>
-                          <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>  
+                          <h2>Place Order</h2>
+                          <p>Search for desired cars or Auto Parts and place your order in a minute OR visit us for a cool deal!</p>  
                         </div>
-						 <img class="full-width img-responsive wow fadeInUp" src="resources/img/500x500/02.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".3s">
+						 <img class="full-width img-responsive wow fadeInUp" src="resources/img/placeOrder/placeorder.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".3s">
                     </div>
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
                         <div class="margin-t-60 margin-b-60">
-                            <h2>Superior Support</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>
+                            <h2>AfterSale Support</h2>
+                            <p>Get free service on your purchased cars as per the contract signed with us!</p>
                         </div>
-                        <img class="full-width img-responsive wow fadeInUp" src="resources/img/500x500/03.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".4s">
+                        <img class="full-width img-responsive wow fadeInUp" src="resources/img/afterSale/aftersale1.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".4s">
                     </div>
 				</div>
                 <!-- End Masonry Grid -->
@@ -760,7 +761,7 @@
             
             <!-- Google Map -->
             <div class="map height-300">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2724.0694570748947!2d7.455080415208266!3d46.94067397914616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e39d0cf20e8d1%3A0x9daac4cd3043d067!2sThunstrasse+50%2C+3005+Bern%2C+Switzerland!5e0!3m2!1sen!2sin!4v1496749852928" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d856.4457506711403!2d72.07986654003058!3d30.836745938591807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x392364386273fb61%3A0x1aae003492664abe!2sSabar+Ayub+Goods+and+Rehman+Autos!5e0!3m2!1sen!2s!4v1522928600344" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
         </div>
         <!-- End Contact -->
@@ -811,10 +812,10 @@
             <div class="content container">
                 <div class="row">
                     <div class="col-xs-6">
-                        <img class="footer-logo" src="resources/img/logo-dark.png" alt="flameonepage Logo">
+                        <img class="footer-logo" src="resources/img/1920x1080/hamotors-logo.jpg" alt="flameonepage Logo">
                     </div>
                     <div class="col-xs-6 text-right">
-                        <p class="margin-b-0"><a class="fweight-700" href="#">FlameOnePage</a> Theme Powered by: <a class="fweight-700" href="http://ft-seo.ch/">FairTech Studio</a></p>
+                        <p class="margin-b-0"><a class="fweight-700" href="#">HA Motors</a> Theme Powered by: <a class="fweight-700" href="http://ft-seo.ch/">FairTech Studio</a></p>
                     </div>
                 </div>
                 <!--// end row -->
