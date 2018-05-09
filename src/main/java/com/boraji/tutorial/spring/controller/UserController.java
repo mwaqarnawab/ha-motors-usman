@@ -33,6 +33,19 @@ public class UserController {
       model.addAttribute("users", userService.list());*/
 
       /*return "userForm";*/
+	   model.addAttribute("error","");
+	   model.addAttribute("user", new User());
+	   return "index";
+   }
+   
+   @GetMapping("/loginFailure")
+   public String loginFailure(Model model) {
+/*ModelAndView mav = new ModelAndView("index");*/
+     /* model.addAttribute("user", new User());
+      model.addAttribute("users", userService.list());*/
+
+      /*return "userForm";*/
+	   model.addAttribute("error","Incorrect Username or Password");
 	   model.addAttribute("user", new User());
 	   return "index";
    }
@@ -56,7 +69,7 @@ public class UserController {
    public String loginUser(@ModelAttribute("user") @Valid User user,
          BindingResult result, Model model) {
 	   if(user == null || user.getUserName().isEmpty() || user.getPassword().isEmpty()){
-		   return "redirect:/";
+		   return "redirect:/loginFailure";
 	   }
      /* if (result.hasErrors()) {
          
@@ -68,14 +81,14 @@ public class UserController {
 	   
 	  User user1 =  userService.findUserByUserName(user.getUserName());
 	  if(user1 == null){
-		  return "redirect:/";
+		  return "redirect:/loginFailure";
 	  }
 	  else if(user1.getPassword().equals(user.getPassword())){
 		  return "userForm";
 	  }
 	  else {
 		 /* model.addAttribute("error","Incorrect Username or password");*/
-		  return "redirect:/";
+		  return "redirect:/loginFailure";
 	  }
 	   
      

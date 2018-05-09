@@ -4,8 +4,15 @@
 	pageEncoding="ISO-8859-1"%>
 	
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html lang="en">
 <head>
+<style>
+input::placeholder {
+    color: white;
+}
+</style>
 <meta charset="UTF-8">
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, user-scalable=yes">
@@ -21,6 +28,16 @@
 			<div class="login">
 				<div class="login__check"></div>
 				<div class="login__form">
+				<c:if test="${not empty error}">
+				<div style="font-size: 19px; color: red; font-style: italic;"  class="login__row">
+						<strong>
+						<h5>
+						<c:out value="${error}"></c:out>
+						</h5>
+						</strong>
+						
+					</div>
+					</c:if>
 					<div class="login__row">
 						<form:input path="userName" type="text" class="login__input name"
 							placeholder="Username"/>
