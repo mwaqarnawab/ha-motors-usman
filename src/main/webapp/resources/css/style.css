@@ -39,8 +39,10 @@ input, button {
 .cont {
   position: relative;
   height: 100%;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/slider-2.jpg");
-  background-size: cover;
+/*   background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/slider-2.jpg");
+ */
+  background-image: url("https://i.pinimg.com/originals/d8/18/1f/d8181f90bffc9182e2834db1a3983628.jpg");
+   background-size: cover;
   overflow: auto;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
