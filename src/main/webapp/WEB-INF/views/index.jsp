@@ -18,7 +18,7 @@ input::placeholder {
 	content="width=device-width, initial-scale=1, user-scalable=yes">
 <link rel='stylesheet prefetch'
 	href='https://fonts.googleapis.com/css?family=Open+Sans'>
-<link rel="stylesheet" href="../../resources/css/style.css">
+<link rel="stylesheet" href="resources/css/style.css">
 
 </head>
 <body>
@@ -59,6 +59,6 @@ input::placeholder {
 	</form:form>
 	<script
 		src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-	<script src="../../resources/js/index.js"></script>
+	<script src="resources/js/index.js"></script>
 </body>
 </html>
